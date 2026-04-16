@@ -1,0 +1,896 @@
+User ID,Age,BMI,Stress Level,Exercise Frequency,Sleep Hours,Diet,Cycle Start Date,Cycle Length,Period Length,Next Cycle Start Date,Symptoms
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,26,7,52:34.9,Headache
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,32,5,52:34.9,Fatigue
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,41,7,52:34.9,Fatigue
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,27,3,52:34.9,Fatigue
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,42,5,52:34.9,Cramps
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,41,5,52:34.9,Fatigue
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,31,4,52:34.9,Headache
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,48,7,52:34.9,Fatigue
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,29,3,52:34.9,Fatigue
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,47,4,52:34.9,Headache
+1,18,29.28,2,Moderate,5.4,Low Carb,52:34.9,42,4,52:34.9,Mood Swings
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,26,4,52:34.9,Bloating
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,34,6,52:34.9,Bloating
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,38,7,52:34.9,Fatigue
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,29,4,52:34.9,Mood Swings
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,34,5,52:34.9,Bloating
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,31,7,52:34.9,Fatigue
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,34,4,52:34.9,Mood Swings
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,47,7,52:34.9,Mood Swings
+2,34,29.57,4,Low,5.4,Low Carb,52:34.9,37,5,52:34.9,Headache
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,50,4,52:34.9,Cramps
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,40,4,52:34.9,Cramps
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,25,5,52:34.9,Cramps
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,38,3,52:34.9,Headache
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,40,3,52:34.9,Bloating
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,49,3,52:34.9,Headache
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,28,3,52:34.9,Mood Swings
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,37,5,52:34.9,Fatigue
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,49,6,52:34.9,Headache
+3,22,29.44,1,Moderate,8.6,Vegetarian,52:34.9,46,4,52:34.9,Bloating
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,38,3,52:34.9,Cramps
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,43,6,52:34.9,Mood Swings
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,40,6,52:34.9,Fatigue
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,39,5,52:34.9,Headache
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,31,5,52:34.9,Cramps
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,49,4,52:34.9,Bloating
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,48,4,52:34.9,Mood Swings
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,36,4,52:34.9,Bloating
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,29,5,52:34.9,Fatigue
+4,25,25.68,2,Moderate,8.3,Vegetarian,52:34.9,49,6,52:34.9,Mood Swings
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,46,7,52:34.9,Fatigue
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,45,7,52:34.9,Fatigue
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,38,5,52:34.9,Headache
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,28,6,52:34.9,Bloating
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,30,5,52:34.9,Mood Swings
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,36,6,52:34.9,Bloating
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,37,6,52:34.9,Cramps
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,38,5,52:34.9,Fatigue
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,47,5,52:34.9,Bloating
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,43,3,52:34.9,Fatigue
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,40,6,52:34.9,Bloating
+5,25,25.27,1,High,6.3,Low Carb,52:34.9,32,3,52:34.9,Mood Swings
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,30,7,52:34.9,Bloating
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,39,6,52:34.9,Mood Swings
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,38,3,52:34.9,Bloating
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,26,5,52:34.9,Cramps
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,35,4,52:34.9,Headache
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,50,5,52:34.9,Bloating
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,46,6,52:34.9,Bloating
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,25,5,52:34.9,Cramps
+6,44,25.87,5,Low,6.1,Low Carb,52:34.9,34,5,52:34.9,Fatigue
+7,25,28.98,5,Moderate,7.5,Balanced,52:34.9,40,4,52:34.9,Cramps
+7,25,28.98,5,Moderate,7.5,Balanced,52:34.9,26,5,52:34.9,Bloating
+7,25,28.98,5,Moderate,7.5,Balanced,52:34.9,42,6,52:34.9,Cramps
+7,25,28.98,5,Moderate,7.5,Balanced,52:34.9,38,6,52:34.9,Bloating
+7,25,28.98,5,Moderate,7.5,Balanced,52:34.9,42,3,52:34.9,Bloating
+7,25,28.98,5,Moderate,7.5,Balanced,52:34.9,47,3,52:34.9,Fatigue
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,25,7,52:34.9,Bloating
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,25,7,52:34.9,Cramps
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,25,5,52:34.9,Cramps
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,28,3,52:34.9,Fatigue
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,48,6,52:34.9,Headache
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,29,4,52:34.9,Fatigue
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,26,6,52:34.9,Fatigue
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,27,4,52:34.9,Bloating
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,47,4,52:34.9,Headache
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,35,5,52:34.9,Bloating
+8,37,24.14,4,Moderate,5.1,Low Carb,52:34.9,35,4,52:34.9,Bloating
+9,24,25.2,1,High,5.7,Balanced,52:34.9,30,4,52:34.9,Cramps
+9,24,25.2,1,High,5.7,Balanced,52:34.9,33,6,52:34.9,Bloating
+9,24,25.2,1,High,5.7,Balanced,52:34.9,29,7,52:34.9,Headache
+9,24,25.2,1,High,5.7,Balanced,52:34.9,29,4,52:34.9,Fatigue
+9,24,25.2,1,High,5.7,Balanced,52:34.9,35,6,52:34.9,Bloating
+9,24,25.2,1,High,5.7,Balanced,52:34.9,28,5,52:34.9,Bloating
+9,24,25.2,1,High,5.7,Balanced,52:34.9,41,7,52:34.9,Headache
+9,24,25.2,1,High,5.7,Balanced,52:34.9,40,6,52:34.9,Headache
+9,24,25.2,1,High,5.7,Balanced,52:34.9,47,3,52:34.9,Bloating
+9,24,25.2,1,High,5.7,Balanced,52:34.9,29,3,52:34.9,Mood Swings
+9,24,25.2,1,High,5.7,Balanced,52:34.9,37,6,52:34.9,Mood Swings
+9,24,25.2,1,High,5.7,Balanced,52:34.9,28,4,52:34.9,Mood Swings
+10,33,22.99,3,High,7.1,Vegetarian,52:34.9,43,5,52:34.9,Cramps
+10,33,22.99,3,High,7.1,Vegetarian,52:34.9,30,5,52:34.9,Cramps
+10,33,22.99,3,High,7.1,Vegetarian,52:34.9,47,3,52:34.9,Fatigue
+10,33,22.99,3,High,7.1,Vegetarian,52:34.9,42,5,52:34.9,Bloating
+10,33,22.99,3,High,7.1,Vegetarian,52:34.9,37,6,52:34.9,Headache
+10,33,22.99,3,High,7.1,Vegetarian,52:34.9,38,7,52:34.9,Bloating
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,43,3,52:34.9,Fatigue
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,44,7,52:34.9,Headache
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,42,5,52:34.9,Mood Swings
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,28,3,52:34.9,Mood Swings
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,28,3,52:34.9,Bloating
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,36,5,52:34.9,Cramps
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,43,4,52:34.9,Headache
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,27,4,52:34.9,Headache
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,38,4,52:34.9,Mood Swings
+11,20,28.33,5,Low,5.8,High Sugar,52:34.9,26,6,52:34.9,Mood Swings
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,37,4,52:34.9,Headache
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,31,4,52:34.9,Cramps
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,38,6,52:34.9,Headache
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,47,5,52:34.9,Mood Swings
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,41,5,52:34.9,Cramps
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,49,4,52:34.9,Mood Swings
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,39,4,52:34.9,Mood Swings
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,30,3,52:34.9,Mood Swings
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,38,7,52:34.9,Headache
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,40,4,52:34.9,Fatigue
+12,29,29.49,4,High,5.5,High Sugar,52:34.9,50,3,52:34.9,Mood Swings
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,46,3,52:34.9,Cramps
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,30,6,52:34.9,Mood Swings
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,35,6,52:34.9,Bloating
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,25,3,52:34.9,Fatigue
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,35,4,52:34.9,Bloating
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,48,7,52:34.9,Cramps
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,41,7,52:34.9,Bloating
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,41,7,52:34.9,Headache
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,48,7,52:34.9,Bloating
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,35,5,52:34.9,Fatigue
+13,35,22.46,3,Moderate,8.6,High Sugar,52:34.9,28,5,52:34.9,Headache
+14,26,19.22,2,Low,6.2,High Sugar,52:34.9,40,3,52:34.9,Cramps
+14,26,19.22,2,Low,6.2,High Sugar,52:34.9,39,6,52:34.9,Headache
+14,26,19.22,2,Low,6.2,High Sugar,52:34.9,27,6,52:34.9,Mood Swings
+14,26,19.22,2,Low,6.2,High Sugar,52:34.9,33,3,52:34.9,Cramps
+14,26,19.22,2,Low,6.2,High Sugar,52:34.9,46,3,52:34.9,Fatigue
+14,26,19.22,2,Low,6.2,High Sugar,52:34.9,32,6,52:34.9,Mood Swings
+14,26,19.22,2,Low,6.2,High Sugar,52:34.9,40,4,52:34.9,Cramps
+14,26,19.22,2,Low,6.2,High Sugar,52:34.9,28,6,52:34.9,Fatigue
+15,39,26.63,5,High,7,Balanced,52:34.9,42,6,52:34.9,Cramps
+15,39,26.63,5,High,7,Balanced,52:34.9,33,6,52:34.9,Mood Swings
+15,39,26.63,5,High,7,Balanced,52:34.9,34,4,52:34.9,Mood Swings
+15,39,26.63,5,High,7,Balanced,52:34.9,45,7,52:34.9,Fatigue
+15,39,26.63,5,High,7,Balanced,52:34.9,27,7,52:34.9,Fatigue
+15,39,26.63,5,High,7,Balanced,52:34.9,47,3,52:34.9,Mood Swings
+15,39,26.63,5,High,7,Balanced,52:34.9,36,6,52:34.9,Bloating
+16,23,27.15,2,Moderate,6.8,Balanced,52:34.9,35,3,52:34.9,Bloating
+16,23,27.15,2,Moderate,6.8,Balanced,52:34.9,44,7,52:34.9,Mood Swings
+16,23,27.15,2,Moderate,6.8,Balanced,52:34.9,26,3,52:34.9,Cramps
+16,23,27.15,2,Moderate,6.8,Balanced,52:34.9,28,4,52:34.9,Headache
+16,23,27.15,2,Moderate,6.8,Balanced,52:34.9,27,6,52:34.9,Mood Swings
+16,23,27.15,2,Moderate,6.8,Balanced,52:34.9,42,4,52:34.9,Cramps
+16,23,27.15,2,Moderate,6.8,Balanced,52:34.9,31,7,52:34.9,Cramps
+16,23,27.15,2,Moderate,6.8,Balanced,52:34.9,36,5,52:34.9,Bloating
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,26,3,52:34.9,Headache
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,26,3,52:34.9,Headache
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,49,7,52:34.9,Bloating
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,37,7,52:34.9,Fatigue
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,35,4,52:34.9,Fatigue
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,26,7,52:34.9,Bloating
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,35,5,52:34.9,Cramps
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,47,4,52:34.9,Mood Swings
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,38,4,52:34.9,Mood Swings
+17,41,23.92,5,High,7.8,High Sugar,52:34.9,38,7,52:34.9,Bloating
+18,20,26.92,1,High,6.1,Balanced,52:34.9,42,6,52:34.9,Fatigue
+18,20,26.92,1,High,6.1,Balanced,52:34.9,40,5,52:34.9,Bloating
+18,20,26.92,1,High,6.1,Balanced,52:34.9,25,7,52:34.9,Headache
+18,20,26.92,1,High,6.1,Balanced,52:34.9,26,4,52:34.9,Mood Swings
+18,20,26.92,1,High,6.1,Balanced,52:34.9,42,5,52:34.9,Headache
+18,20,26.92,1,High,6.1,Balanced,52:34.9,31,4,52:34.9,Cramps
+18,20,26.92,1,High,6.1,Balanced,52:34.9,35,5,52:34.9,Bloating
+18,20,26.92,1,High,6.1,Balanced,52:34.9,31,5,52:34.9,Fatigue
+18,20,26.92,1,High,6.1,Balanced,52:34.9,41,3,52:34.9,Cramps
+18,20,26.92,1,High,6.1,Balanced,52:34.9,44,4,52:34.9,Cramps
+18,20,26.92,1,High,6.1,Balanced,52:34.9,26,4,52:34.9,Mood Swings
+19,21,21.57,1,Low,8,Balanced,52:34.9,38,7,52:34.9,Cramps
+19,21,21.57,1,Low,8,Balanced,52:34.9,33,7,52:34.9,Headache
+19,21,21.57,1,Low,8,Balanced,52:34.9,46,4,52:34.9,Mood Swings
+19,21,21.57,1,Low,8,Balanced,52:34.9,44,5,52:34.9,Mood Swings
+19,21,21.57,1,Low,8,Balanced,52:34.9,42,3,52:34.9,Mood Swings
+19,21,21.57,1,Low,8,Balanced,52:34.9,28,4,52:34.9,Bloating
+19,21,21.57,1,Low,8,Balanced,52:34.9,37,7,52:34.9,Mood Swings
+20,45,24.82,4,Low,7.5,Low Carb,52:34.9,29,7,52:34.9,Bloating
+20,45,24.82,4,Low,7.5,Low Carb,52:34.9,43,7,52:34.9,Bloating
+20,45,24.82,4,Low,7.5,Low Carb,52:34.9,29,5,52:34.9,Bloating
+20,45,24.82,4,Low,7.5,Low Carb,52:34.9,39,3,52:34.9,Cramps
+20,45,24.82,4,Low,7.5,Low Carb,52:34.9,36,6,52:34.9,Bloating
+20,45,24.82,4,Low,7.5,Low Carb,52:34.9,47,3,52:34.9,Fatigue
+20,45,24.82,4,Low,7.5,Low Carb,52:34.9,34,7,52:34.9,Fatigue
+21,19,23.6,5,Low,5.6,Balanced,52:34.9,30,7,52:34.9,Cramps
+21,19,23.6,5,Low,5.6,Balanced,52:34.9,50,6,52:34.9,Fatigue
+21,19,23.6,5,Low,5.6,Balanced,52:34.9,48,7,52:34.9,Cramps
+21,19,23.6,5,Low,5.6,Balanced,52:34.9,33,4,52:34.9,Bloating
+21,19,23.6,5,Low,5.6,Balanced,52:34.9,32,7,52:34.9,Cramps
+21,19,23.6,5,Low,5.6,Balanced,52:34.9,41,6,52:34.9,Mood Swings
+21,19,23.6,5,Low,5.6,Balanced,52:34.9,31,3,52:34.9,Fatigue
+22,33,28.82,4,High,8.7,Vegetarian,52:34.9,37,5,52:34.9,Fatigue
+22,33,28.82,4,High,8.7,Vegetarian,52:34.9,41,5,52:34.9,Headache
+22,33,28.82,4,High,8.7,Vegetarian,52:34.9,29,3,52:34.9,Cramps
+22,33,28.82,4,High,8.7,Vegetarian,52:34.9,42,4,52:34.9,Bloating
+22,33,28.82,4,High,8.7,Vegetarian,52:34.9,46,7,52:34.9,Headache
+22,33,28.82,4,High,8.7,Vegetarian,52:34.9,49,3,52:34.9,Headache
+23,44,24.97,1,Low,5.2,Balanced,52:34.9,49,4,52:34.9,Bloating
+23,44,24.97,1,Low,5.2,Balanced,52:34.9,48,6,52:34.9,Bloating
+23,44,24.97,1,Low,5.2,Balanced,52:34.9,29,3,52:34.9,Mood Swings
+23,44,24.97,1,Low,5.2,Balanced,52:34.9,37,3,52:34.9,Headache
+23,44,24.97,1,Low,5.2,Balanced,52:34.9,29,7,52:34.9,Bloating
+23,44,24.97,1,Low,5.2,Balanced,52:34.9,31,7,52:34.9,Mood Swings
+23,44,24.97,1,Low,5.2,Balanced,52:34.9,31,4,52:34.9,Bloating
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,42,4,52:34.9,Mood Swings
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,45,4,52:34.9,Cramps
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,29,4,52:34.9,Headache
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,40,4,52:34.9,Mood Swings
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,31,6,52:34.9,Fatigue
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,40,6,52:34.9,Fatigue
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,38,5,52:34.9,Fatigue
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,26,6,52:34.9,Bloating
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,29,4,52:34.9,Mood Swings
+24,19,27.84,3,High,8.8,Vegetarian,52:34.9,33,7,52:34.9,Mood Swings
+25,26,29.46,2,High,8,Vegetarian,52:34.9,46,4,52:34.9,Headache
+25,26,29.46,2,High,8,Vegetarian,52:34.9,38,4,52:34.9,Fatigue
+25,26,29.46,2,High,8,Vegetarian,52:34.9,45,7,52:34.9,Cramps
+25,26,29.46,2,High,8,Vegetarian,52:34.9,43,7,52:34.9,Headache
+25,26,29.46,2,High,8,Vegetarian,52:34.9,33,5,52:34.9,Fatigue
+25,26,29.46,2,High,8,Vegetarian,52:34.9,30,5,52:34.9,Mood Swings
+25,26,29.46,2,High,8,Vegetarian,52:34.9,33,4,52:34.9,Cramps
+26,28,22.81,2,High,7.3,Balanced,52:34.9,33,3,52:34.9,Mood Swings
+26,28,22.81,2,High,7.3,Balanced,52:34.9,39,5,52:34.9,Fatigue
+26,28,22.81,2,High,7.3,Balanced,52:34.9,47,3,52:34.9,Bloating
+26,28,22.81,2,High,7.3,Balanced,52:34.9,46,5,52:34.9,Bloating
+26,28,22.81,2,High,7.3,Balanced,52:34.9,48,5,52:34.9,Headache
+26,28,22.81,2,High,7.3,Balanced,52:34.9,45,6,52:34.9,Mood Swings
+26,28,22.81,2,High,7.3,Balanced,52:34.9,50,4,52:34.9,Cramps
+27,45,18.75,3,High,6.3,Vegetarian,52:34.9,48,3,52:34.9,Bloating
+27,45,18.75,3,High,6.3,Vegetarian,52:34.9,46,7,52:34.9,Cramps
+27,45,18.75,3,High,6.3,Vegetarian,52:34.9,25,5,52:34.9,Headache
+27,45,18.75,3,High,6.3,Vegetarian,52:34.9,26,4,52:34.9,Fatigue
+27,45,18.75,3,High,6.3,Vegetarian,52:34.9,46,6,52:34.9,Bloating
+27,45,18.75,3,High,6.3,Vegetarian,52:34.9,41,7,52:34.9,Mood Swings
+27,45,18.75,3,High,6.3,Vegetarian,52:34.9,38,4,52:34.9,Headache
+28,19,26.48,1,Low,6.9,Low Carb,52:34.9,44,4,52:34.9,Headache
+28,19,26.48,1,Low,6.9,Low Carb,52:34.9,27,4,52:34.9,Fatigue
+28,19,26.48,1,Low,6.9,Low Carb,52:34.9,31,5,52:34.9,Bloating
+28,19,26.48,1,Low,6.9,Low Carb,52:34.9,32,6,52:34.9,Bloating
+28,19,26.48,1,Low,6.9,Low Carb,52:34.9,46,5,52:34.9,Cramps
+28,19,26.48,1,Low,6.9,Low Carb,52:34.9,45,6,52:34.9,Fatigue
+28,19,26.48,1,Low,6.9,Low Carb,52:34.9,45,6,52:34.9,Mood Swings
+28,19,26.48,1,Low,6.9,Low Carb,52:34.9,41,3,52:34.9,Fatigue
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,32,6,52:34.9,Mood Swings
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,32,3,52:34.9,Cramps
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,44,6,52:34.9,Headache
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,50,3,52:34.9,Cramps
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,42,7,52:34.9,Fatigue
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,25,6,52:34.9,Fatigue
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,44,4,52:34.9,Cramps
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,35,5,52:34.9,Headache
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,50,5,52:34.9,Cramps
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,43,5,52:34.9,Cramps
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,49,7,52:34.9,Bloating
+29,27,26.97,5,High,7.3,Low Carb,52:34.9,37,6,52:34.9,Cramps
+30,38,21.29,2,High,5.2,Balanced,52:34.9,30,4,52:34.9,Bloating
+30,38,21.29,2,High,5.2,Balanced,52:34.9,42,3,52:34.9,Fatigue
+30,38,21.29,2,High,5.2,Balanced,52:34.9,31,7,52:34.9,Bloating
+30,38,21.29,2,High,5.2,Balanced,52:34.9,50,4,52:34.9,Bloating
+30,38,21.29,2,High,5.2,Balanced,52:34.9,40,7,52:34.9,Mood Swings
+30,38,21.29,2,High,5.2,Balanced,52:34.9,42,5,52:34.9,Cramps
+30,38,21.29,2,High,5.2,Balanced,52:34.9,35,5,52:34.9,Fatigue
+30,38,21.29,2,High,5.2,Balanced,52:34.9,29,3,52:34.9,Fatigue
+30,38,21.29,2,High,5.2,Balanced,52:34.9,33,3,52:34.9,Bloating
+30,38,21.29,2,High,5.2,Balanced,52:34.9,48,5,52:34.9,Headache
+30,38,21.29,2,High,5.2,Balanced,52:34.9,32,7,52:34.9,Mood Swings
+31,37,21.17,1,High,6.2,Balanced,52:34.9,38,3,52:34.9,Bloating
+31,37,21.17,1,High,6.2,Balanced,52:34.9,40,7,52:34.9,Fatigue
+31,37,21.17,1,High,6.2,Balanced,52:34.9,28,3,52:34.9,Fatigue
+31,37,21.17,1,High,6.2,Balanced,52:34.9,27,5,52:34.9,Fatigue
+31,37,21.17,1,High,6.2,Balanced,52:34.9,37,7,52:34.9,Bloating
+31,37,21.17,1,High,6.2,Balanced,52:34.9,35,7,52:34.9,Bloating
+31,37,21.17,1,High,6.2,Balanced,52:34.9,28,3,52:34.9,Cramps
+31,37,21.17,1,High,6.2,Balanced,52:34.9,42,4,52:34.9,Mood Swings
+31,37,21.17,1,High,6.2,Balanced,52:34.9,43,7,52:34.9,Headache
+31,37,21.17,1,High,6.2,Balanced,52:34.9,46,3,52:34.9,Mood Swings
+31,37,21.17,1,High,6.2,Balanced,52:34.9,26,6,52:34.9,Headache
+32,25,21.78,3,Moderate,5.3,Vegetarian,52:34.9,26,6,52:34.9,Cramps
+32,25,21.78,3,Moderate,5.3,Vegetarian,52:34.9,50,4,52:34.9,Bloating
+32,25,21.78,3,Moderate,5.3,Vegetarian,52:34.9,31,5,52:34.9,Headache
+32,25,21.78,3,Moderate,5.3,Vegetarian,52:34.9,33,6,52:34.9,Fatigue
+32,25,21.78,3,Moderate,5.3,Vegetarian,52:34.9,45,3,52:34.9,Bloating
+32,25,21.78,3,Moderate,5.3,Vegetarian,52:34.9,46,4,52:34.9,Cramps
+32,25,21.78,3,Moderate,5.3,Vegetarian,52:34.9,26,3,52:34.9,Cramps
+32,25,21.78,3,Moderate,5.3,Vegetarian,52:34.9,49,5,52:34.9,Headache
+33,44,26.71,2,High,8.5,Vegetarian,52:34.9,28,4,52:34.9,Mood Swings
+33,44,26.71,2,High,8.5,Vegetarian,52:34.9,38,3,52:34.9,Mood Swings
+33,44,26.71,2,High,8.5,Vegetarian,52:34.9,39,6,52:34.9,Fatigue
+33,44,26.71,2,High,8.5,Vegetarian,52:34.9,41,4,52:34.9,Bloating
+33,44,26.71,2,High,8.5,Vegetarian,52:34.9,35,3,52:34.9,Headache
+33,44,26.71,2,High,8.5,Vegetarian,52:34.9,29,7,52:34.9,Cramps
+33,44,26.71,2,High,8.5,Vegetarian,52:34.9,41,5,52:34.9,Cramps
+33,44,26.71,2,High,8.5,Vegetarian,52:34.9,40,6,52:34.9,Mood Swings
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,36,3,52:34.9,Headache
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,39,6,52:34.9,Fatigue
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,25,4,52:34.9,Bloating
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,32,3,52:34.9,Cramps
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,40,4,52:34.9,Cramps
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,38,4,52:34.9,Fatigue
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,40,6,52:34.9,Mood Swings
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,36,6,52:34.9,Headache
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,49,5,52:34.9,Cramps
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,25,4,52:34.9,Bloating
+34,32,23.77,2,Low,5.3,Vegetarian,52:34.9,48,7,52:34.9,Bloating
+35,29,20.49,5,Low,6.9,Vegetarian,52:34.9,49,6,52:34.9,Bloating
+35,29,20.49,5,Low,6.9,Vegetarian,52:34.9,42,3,52:34.9,Headache
+35,29,20.49,5,Low,6.9,Vegetarian,52:34.9,43,3,52:34.9,Headache
+35,29,20.49,5,Low,6.9,Vegetarian,52:34.9,28,5,52:34.9,Headache
+35,29,20.49,5,Low,6.9,Vegetarian,52:34.9,41,4,52:34.9,Cramps
+35,29,20.49,5,Low,6.9,Vegetarian,52:34.9,35,4,52:34.9,Headache
+36,31,21.47,1,High,6.2,Vegetarian,52:34.9,43,4,52:34.9,Fatigue
+36,31,21.47,1,High,6.2,Vegetarian,52:34.9,31,7,52:34.9,Mood Swings
+36,31,21.47,1,High,6.2,Vegetarian,52:34.9,46,4,52:34.9,Headache
+36,31,21.47,1,High,6.2,Vegetarian,52:34.9,46,4,52:34.9,Headache
+36,31,21.47,1,High,6.2,Vegetarian,52:34.9,25,7,52:34.9,Fatigue
+36,31,21.47,1,High,6.2,Vegetarian,52:34.9,45,6,52:34.9,Cramps
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,39,4,52:34.9,Mood Swings
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,49,4,52:34.9,Fatigue
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,30,5,52:34.9,Bloating
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,34,4,52:34.9,Mood Swings
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,40,4,52:34.9,Headache
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,33,6,52:34.9,Fatigue
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,26,6,52:34.9,Headache
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,42,3,52:34.9,Headache
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,34,7,52:34.9,Fatigue
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,39,6,52:34.9,Bloating
+37,44,23.41,4,Low,7.8,Balanced,52:34.9,39,3,52:34.9,Mood Swings
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,31,6,52:34.9,Cramps
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,42,5,52:34.9,Mood Swings
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,31,4,52:34.9,Headache
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,48,4,52:34.9,Cramps
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,32,4,52:34.9,Fatigue
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,29,6,52:34.9,Headache
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,29,3,52:34.9,Cramps
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,26,7,52:34.9,Mood Swings
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,39,6,52:34.9,Mood Swings
+38,45,18.72,4,Low,5.6,Low Carb,52:34.9,48,7,52:34.9,Mood Swings
+39,23,18.59,3,Moderate,5.4,High Sugar,52:34.9,40,3,52:34.9,Headache
+39,23,18.59,3,Moderate,5.4,High Sugar,52:34.9,43,3,52:34.9,Headache
+39,23,18.59,3,Moderate,5.4,High Sugar,52:34.9,42,4,52:34.9,Bloating
+39,23,18.59,3,Moderate,5.4,High Sugar,52:34.9,42,4,52:34.9,Mood Swings
+39,23,18.59,3,Moderate,5.4,High Sugar,52:34.9,37,5,52:34.9,Bloating
+39,23,18.59,3,Moderate,5.4,High Sugar,52:34.9,33,6,52:34.9,Bloating
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,45,3,52:34.9,Headache
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,29,6,52:34.9,Bloating
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,37,3,52:34.9,Bloating
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,45,6,52:34.9,Bloating
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,35,4,52:34.9,Bloating
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,38,6,52:34.9,Cramps
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,43,6,52:34.9,Bloating
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,34,7,52:34.9,Bloating
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,42,3,52:34.9,Fatigue
+40,18,27.02,2,High,8.8,Low Carb,52:34.9,34,5,52:34.9,Fatigue
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,49,4,52:34.9,Headache
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,41,6,52:34.9,Cramps
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,42,5,52:34.9,Cramps
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,30,7,52:34.9,Fatigue
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,35,4,52:34.9,Bloating
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,37,5,52:34.9,Bloating
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,26,6,52:34.9,Bloating
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,40,3,52:34.9,Fatigue
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,39,6,52:34.9,Mood Swings
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,33,5,52:34.9,Cramps
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,38,6,52:34.9,Mood Swings
+41,33,26.62,5,Low,5.4,Balanced,52:34.9,28,4,52:34.9,Cramps
+42,24,21.08,3,High,7.5,Balanced,52:34.9,48,7,52:34.9,Mood Swings
+42,24,21.08,3,High,7.5,Balanced,52:34.9,47,3,52:34.9,Fatigue
+42,24,21.08,3,High,7.5,Balanced,52:34.9,32,7,52:34.9,Cramps
+42,24,21.08,3,High,7.5,Balanced,52:34.9,27,4,52:34.9,Bloating
+42,24,21.08,3,High,7.5,Balanced,52:34.9,25,7,52:34.9,Mood Swings
+42,24,21.08,3,High,7.5,Balanced,52:34.9,26,6,52:34.9,Bloating
+42,24,21.08,3,High,7.5,Balanced,52:34.9,49,4,52:34.9,Bloating
+42,24,21.08,3,High,7.5,Balanced,52:34.9,26,3,52:34.9,Fatigue
+42,24,21.08,3,High,7.5,Balanced,52:34.9,34,5,52:34.9,Fatigue
+42,24,21.08,3,High,7.5,Balanced,52:34.9,42,6,52:34.9,Cramps
+43,28,26.91,4,Moderate,7.8,High Sugar,52:34.9,38,7,52:34.9,Mood Swings
+43,28,26.91,4,Moderate,7.8,High Sugar,52:34.9,46,3,52:34.9,Headache
+43,28,26.91,4,Moderate,7.8,High Sugar,52:34.9,40,5,52:34.9,Fatigue
+43,28,26.91,4,Moderate,7.8,High Sugar,52:34.9,50,5,52:34.9,Fatigue
+43,28,26.91,4,Moderate,7.8,High Sugar,52:34.9,36,6,52:34.9,Mood Swings
+43,28,26.91,4,Moderate,7.8,High Sugar,52:34.9,45,6,52:34.9,Fatigue
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,50,3,52:34.9,Mood Swings
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,42,6,52:34.9,Cramps
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,33,7,52:34.9,Mood Swings
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,33,3,52:34.9,Headache
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,30,5,52:34.9,Cramps
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,49,5,52:34.9,Cramps
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,32,5,52:34.9,Mood Swings
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,33,7,52:34.9,Headache
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,48,6,52:34.9,Headache
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,28,7,52:34.9,Cramps
+44,26,21.85,1,Moderate,7.1,High Sugar,52:34.9,30,5,52:34.9,Fatigue
+45,21,23.7,4,Moderate,6.6,Vegetarian,52:34.9,30,3,52:34.9,Headache
+45,21,23.7,4,Moderate,6.6,Vegetarian,52:34.9,27,6,52:34.9,Bloating
+45,21,23.7,4,Moderate,6.6,Vegetarian,52:34.9,27,6,52:34.9,Mood Swings
+45,21,23.7,4,Moderate,6.6,Vegetarian,52:34.9,25,3,52:34.9,Headache
+45,21,23.7,4,Moderate,6.6,Vegetarian,52:34.9,43,6,52:34.9,Cramps
+45,21,23.7,4,Moderate,6.6,Vegetarian,52:34.9,32,4,52:34.9,Headache
+45,21,23.7,4,Moderate,6.6,Vegetarian,52:34.9,44,3,52:34.9,Fatigue
+45,21,23.7,4,Moderate,6.6,Vegetarian,52:34.9,28,5,52:34.9,Headache
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,26,5,52:34.9,Cramps
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,31,7,52:34.9,Bloating
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,40,6,52:34.9,Mood Swings
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,36,4,52:34.9,Bloating
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,48,6,52:34.9,Headache
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,50,4,52:34.9,Bloating
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,33,5,52:34.9,Fatigue
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,44,5,52:34.9,Headache
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,50,6,52:34.9,Cramps
+46,25,23.71,4,Moderate,5.3,High Sugar,52:34.9,33,5,52:34.9,Headache
+47,25,19.4,5,High,7.2,High Sugar,52:34.9,34,7,52:34.9,Headache
+47,25,19.4,5,High,7.2,High Sugar,52:34.9,37,6,52:34.9,Mood Swings
+47,25,19.4,5,High,7.2,High Sugar,52:34.9,43,5,52:34.9,Fatigue
+47,25,19.4,5,High,7.2,High Sugar,52:34.9,39,4,52:34.9,Mood Swings
+47,25,19.4,5,High,7.2,High Sugar,52:34.9,43,6,52:34.9,Headache
+47,25,19.4,5,High,7.2,High Sugar,52:34.9,38,6,52:34.9,Cramps
+47,25,19.4,5,High,7.2,High Sugar,52:34.9,27,5,52:34.9,Cramps
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,47,5,52:34.9,Bloating
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,34,7,52:34.9,Bloating
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,30,7,52:34.9,Headache
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,26,4,52:34.9,Fatigue
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,40,6,52:34.9,Bloating
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,36,4,52:34.9,Fatigue
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,50,4,52:34.9,Fatigue
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,26,7,52:34.9,Cramps
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,42,3,52:34.9,Bloating
+48,42,25.93,2,High,6.5,Low Carb,52:34.9,46,5,52:34.9,Bloating
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,26,3,52:34.9,Headache
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,30,7,52:34.9,Headache
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,42,7,52:34.9,Cramps
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,35,6,52:34.9,Headache
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,34,7,52:34.9,Bloating
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,25,4,52:34.9,Cramps
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,43,6,52:34.9,Mood Swings
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,34,3,52:34.9,Mood Swings
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,30,3,52:34.9,Fatigue
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,43,7,52:34.9,Cramps
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,42,3,52:34.9,Bloating
+49,35,24.64,3,Low,5.4,Vegetarian,52:34.9,50,3,52:34.9,Bloating
+50,38,28.53,1,Low,8.3,Low Carb,52:34.9,47,4,52:34.9,Fatigue
+50,38,28.53,1,Low,8.3,Low Carb,52:34.9,26,4,52:34.9,Bloating
+50,38,28.53,1,Low,8.3,Low Carb,52:34.9,35,5,52:34.9,Headache
+50,38,28.53,1,Low,8.3,Low Carb,52:34.9,35,4,52:34.9,Headache
+50,38,28.53,1,Low,8.3,Low Carb,52:34.9,45,3,52:34.9,Fatigue
+50,38,28.53,1,Low,8.3,Low Carb,52:34.9,34,3,52:34.9,Cramps
+51,35,21.11,4,High,7,High Sugar,52:34.9,31,4,52:34.9,Headache
+51,35,21.11,4,High,7,High Sugar,52:34.9,36,5,52:34.9,Bloating
+51,35,21.11,4,High,7,High Sugar,52:34.9,43,3,52:34.9,Fatigue
+51,35,21.11,4,High,7,High Sugar,52:34.9,48,6,52:34.9,Headache
+51,35,21.11,4,High,7,High Sugar,52:34.9,47,3,52:34.9,Headache
+51,35,21.11,4,High,7,High Sugar,52:34.9,28,5,52:34.9,Bloating
+51,35,21.11,4,High,7,High Sugar,52:34.9,32,6,52:34.9,Bloating
+51,35,21.11,4,High,7,High Sugar,52:34.9,41,7,52:34.9,Bloating
+51,35,21.11,4,High,7,High Sugar,52:34.9,40,5,52:34.9,Headache
+51,35,21.11,4,High,7,High Sugar,52:34.9,37,3,52:34.9,Bloating
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,29,6,52:34.9,Bloating
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,30,5,52:34.9,Fatigue
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,35,4,52:34.9,Fatigue
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,48,5,52:34.9,Bloating
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,38,3,52:34.9,Bloating
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,49,7,52:34.9,Cramps
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,42,3,52:34.9,Bloating
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,41,3,52:34.9,Bloating
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,37,7,52:34.9,Mood Swings
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,48,5,52:34.9,Bloating
+52,26,29.35,5,High,7.5,Low Carb,52:34.9,46,7,52:34.9,Headache
+53,43,22.23,1,Moderate,6.3,High Sugar,52:34.9,43,6,52:34.9,Headache
+53,43,22.23,1,Moderate,6.3,High Sugar,52:34.9,27,5,52:34.9,Bloating
+53,43,22.23,1,Moderate,6.3,High Sugar,52:34.9,44,6,52:34.9,Fatigue
+53,43,22.23,1,Moderate,6.3,High Sugar,52:34.9,36,5,52:34.9,Bloating
+53,43,22.23,1,Moderate,6.3,High Sugar,52:34.9,38,5,52:34.9,Cramps
+53,43,22.23,1,Moderate,6.3,High Sugar,52:34.9,45,6,52:34.9,Cramps
+54,26,25.25,1,High,7.4,Balanced,52:34.9,36,7,52:34.9,Mood Swings
+54,26,25.25,1,High,7.4,Balanced,52:34.9,45,5,52:34.9,Fatigue
+54,26,25.25,1,High,7.4,Balanced,52:34.9,32,6,52:34.9,Headache
+54,26,25.25,1,High,7.4,Balanced,52:34.9,34,3,52:34.9,Bloating
+54,26,25.25,1,High,7.4,Balanced,52:34.9,28,3,52:34.9,Cramps
+54,26,25.25,1,High,7.4,Balanced,52:34.9,48,4,52:34.9,Cramps
+54,26,25.25,1,High,7.4,Balanced,52:34.9,50,3,52:34.9,Headache
+54,26,25.25,1,High,7.4,Balanced,52:34.9,40,4,52:34.9,Headache
+54,26,25.25,1,High,7.4,Balanced,52:34.9,46,4,52:34.9,Fatigue
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,31,5,52:34.9,Mood Swings
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,49,3,52:34.9,Headache
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,50,7,52:34.9,Cramps
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,39,7,52:34.9,Mood Swings
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,48,6,52:34.9,Cramps
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,25,4,52:34.9,Bloating
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,48,4,52:34.9,Bloating
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,26,6,52:34.9,Bloating
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,38,3,52:34.9,Bloating
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,31,6,52:34.9,Mood Swings
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,41,4,52:34.9,Headache
+55,31,27.99,4,Moderate,7.2,Balanced,52:34.9,33,7,52:34.9,Mood Swings
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,40,7,52:34.9,Mood Swings
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,33,7,52:34.9,Bloating
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,32,3,52:34.9,Bloating
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,32,7,52:34.9,Cramps
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,26,4,52:34.9,Cramps
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,34,4,52:34.9,Bloating
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,25,6,52:34.9,Fatigue
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,49,4,52:34.9,Mood Swings
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,29,6,52:34.9,Fatigue
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,49,5,52:34.9,Bloating
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,46,5,52:34.9,Fatigue
+56,31,18.83,4,Low,7.6,Vegetarian,52:34.9,45,7,52:34.9,Cramps
+57,39,27.5,4,High,6.1,Balanced,52:34.9,33,5,52:34.9,Bloating
+57,39,27.5,4,High,6.1,Balanced,52:34.9,32,5,52:34.9,Fatigue
+57,39,27.5,4,High,6.1,Balanced,52:34.9,45,7,52:34.9,Mood Swings
+57,39,27.5,4,High,6.1,Balanced,52:34.9,40,5,52:34.9,Headache
+57,39,27.5,4,High,6.1,Balanced,52:34.9,30,7,52:34.9,Mood Swings
+57,39,27.5,4,High,6.1,Balanced,52:34.9,41,5,52:34.9,Fatigue
+57,39,27.5,4,High,6.1,Balanced,52:34.9,35,5,52:34.9,Fatigue
+57,39,27.5,4,High,6.1,Balanced,52:34.9,47,5,52:34.9,Headache
+58,39,26.58,3,Low,8,High Sugar,52:34.9,36,4,52:34.9,Fatigue
+58,39,26.58,3,Low,8,High Sugar,52:34.9,47,5,52:34.9,Mood Swings
+58,39,26.58,3,Low,8,High Sugar,52:34.9,48,5,52:34.9,Bloating
+58,39,26.58,3,Low,8,High Sugar,52:34.9,31,7,52:34.9,Fatigue
+58,39,26.58,3,Low,8,High Sugar,52:34.9,49,4,52:34.9,Mood Swings
+58,39,26.58,3,Low,8,High Sugar,52:34.9,45,7,52:34.9,Headache
+58,39,26.58,3,Low,8,High Sugar,52:34.9,42,7,52:34.9,Headache
+58,39,26.58,3,Low,8,High Sugar,52:34.9,27,7,52:34.9,Bloating
+58,39,26.58,3,Low,8,High Sugar,52:34.9,39,6,52:34.9,Fatigue
+59,30,21.02,1,Moderate,8.8,High Sugar,52:34.9,35,5,52:34.9,Cramps
+59,30,21.02,1,Moderate,8.8,High Sugar,52:34.9,34,5,52:34.9,Cramps
+59,30,21.02,1,Moderate,8.8,High Sugar,52:34.9,34,7,52:34.9,Headache
+59,30,21.02,1,Moderate,8.8,High Sugar,52:34.9,42,6,52:34.9,Headache
+59,30,21.02,1,Moderate,8.8,High Sugar,52:34.9,35,3,52:34.9,Fatigue
+59,30,21.02,1,Moderate,8.8,High Sugar,52:34.9,40,3,52:34.9,Headache
+59,30,21.02,1,Moderate,8.8,High Sugar,52:34.9,49,5,52:34.9,Mood Swings
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,38,4,52:34.9,Headache
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,48,5,52:34.9,Fatigue
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,36,5,52:34.9,Cramps
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,25,5,52:34.9,Mood Swings
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,33,3,52:34.9,Bloating
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,30,4,52:34.9,Mood Swings
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,31,4,52:34.9,Cramps
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,44,6,52:34.9,Fatigue
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,33,4,52:34.9,Cramps
+60,39,24.38,5,Moderate,7.5,High Sugar,52:34.9,42,5,52:34.9,Fatigue
+61,33,23.15,1,Low,5.6,Vegetarian,52:34.9,25,3,52:34.9,Headache
+61,33,23.15,1,Low,5.6,Vegetarian,52:34.9,32,7,52:34.9,Cramps
+61,33,23.15,1,Low,5.6,Vegetarian,52:34.9,29,6,52:34.9,Cramps
+61,33,23.15,1,Low,5.6,Vegetarian,52:34.9,30,4,52:34.9,Fatigue
+61,33,23.15,1,Low,5.6,Vegetarian,52:34.9,43,7,52:34.9,Bloating
+61,33,23.15,1,Low,5.6,Vegetarian,52:34.9,49,5,52:34.9,Cramps
+62,40,20.16,4,High,5.2,Low Carb,52:34.9,36,6,52:34.9,Mood Swings
+62,40,20.16,4,High,5.2,Low Carb,52:34.9,46,5,52:34.9,Bloating
+62,40,20.16,4,High,5.2,Low Carb,52:34.9,25,4,52:34.9,Cramps
+62,40,20.16,4,High,5.2,Low Carb,52:34.9,28,4,52:34.9,Cramps
+62,40,20.16,4,High,5.2,Low Carb,52:34.9,37,5,52:34.9,Cramps
+62,40,20.16,4,High,5.2,Low Carb,52:34.9,35,7,52:34.9,Mood Swings
+62,40,20.16,4,High,5.2,Low Carb,52:34.9,37,4,52:34.9,Fatigue
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,49,4,52:34.9,Headache
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,29,7,52:34.9,Cramps
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,25,7,52:34.9,Cramps
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,46,4,52:34.9,Cramps
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,46,7,52:34.9,Fatigue
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,47,6,52:34.9,Fatigue
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,29,5,52:34.9,Bloating
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,27,4,52:34.9,Headache
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,31,5,52:34.9,Headache
+63,21,23.94,3,Moderate,7.7,Balanced,52:34.9,48,4,52:34.9,Cramps
+64,22,24.1,2,High,7.2,Low Carb,52:34.9,28,3,52:34.9,Mood Swings
+64,22,24.1,2,High,7.2,Low Carb,52:34.9,42,4,52:34.9,Headache
+64,22,24.1,2,High,7.2,Low Carb,52:34.9,39,7,52:34.9,Bloating
+64,22,24.1,2,High,7.2,Low Carb,52:34.9,49,7,52:34.9,Headache
+64,22,24.1,2,High,7.2,Low Carb,52:34.9,40,5,52:34.9,Cramps
+64,22,24.1,2,High,7.2,Low Carb,52:34.9,42,3,52:34.9,Mood Swings
+64,22,24.1,2,High,7.2,Low Carb,52:34.9,25,5,52:34.9,Fatigue
+65,41,29.09,4,Moderate,5.9,Vegetarian,52:34.9,39,7,52:34.9,Bloating
+65,41,29.09,4,Moderate,5.9,Vegetarian,52:34.9,25,5,52:34.9,Bloating
+65,41,29.09,4,Moderate,5.9,Vegetarian,52:34.9,31,6,52:34.9,Bloating
+65,41,29.09,4,Moderate,5.9,Vegetarian,52:34.9,36,5,52:34.9,Fatigue
+65,41,29.09,4,Moderate,5.9,Vegetarian,52:34.9,39,4,52:34.9,Fatigue
+65,41,29.09,4,Moderate,5.9,Vegetarian,52:34.9,33,7,52:34.9,Bloating
+65,41,29.09,4,Moderate,5.9,Vegetarian,52:34.9,37,4,52:34.9,Cramps
+65,41,29.09,4,Moderate,5.9,Vegetarian,52:34.9,27,6,52:34.9,Headache
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,40,7,52:34.9,Fatigue
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,35,7,52:34.9,Fatigue
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,42,7,52:34.9,Cramps
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,25,3,52:34.9,Headache
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,32,7,52:34.9,Cramps
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,49,4,52:34.9,Mood Swings
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,42,3,52:34.9,Mood Swings
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,44,7,52:34.9,Mood Swings
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,45,3,52:34.9,Bloating
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,40,3,52:34.9,Fatigue
+66,20,28.42,2,Moderate,5.4,Vegetarian,52:34.9,32,7,52:34.9,Cramps
+67,25,20.02,2,Moderate,8.7,Balanced,52:34.9,44,5,52:34.9,Mood Swings
+67,25,20.02,2,Moderate,8.7,Balanced,52:34.9,36,4,52:34.9,Bloating
+67,25,20.02,2,Moderate,8.7,Balanced,52:34.9,28,7,52:34.9,Mood Swings
+67,25,20.02,2,Moderate,8.7,Balanced,52:34.9,41,5,52:34.9,Cramps
+67,25,20.02,2,Moderate,8.7,Balanced,52:34.9,33,7,52:34.9,Fatigue
+67,25,20.02,2,Moderate,8.7,Balanced,52:34.9,26,4,52:34.9,Headache
+68,44,20,4,High,8.9,Balanced,52:34.9,36,5,52:34.9,Bloating
+68,44,20,4,High,8.9,Balanced,52:34.9,34,7,52:34.9,Bloating
+68,44,20,4,High,8.9,Balanced,52:34.9,27,7,52:34.9,Bloating
+68,44,20,4,High,8.9,Balanced,52:34.9,30,7,52:34.9,Fatigue
+68,44,20,4,High,8.9,Balanced,52:34.9,25,5,52:34.9,Fatigue
+68,44,20,4,High,8.9,Balanced,52:34.9,32,3,52:34.9,Headache
+68,44,20,4,High,8.9,Balanced,52:34.9,41,3,52:34.9,Headache
+68,44,20,4,High,8.9,Balanced,52:34.9,30,7,52:34.9,Fatigue
+68,44,20,4,High,8.9,Balanced,52:34.9,45,3,52:34.9,Bloating
+69,31,21.93,1,Low,8.8,Balanced,52:34.9,38,3,52:34.9,Bloating
+69,31,21.93,1,Low,8.8,Balanced,52:34.9,39,3,52:34.9,Fatigue
+69,31,21.93,1,Low,8.8,Balanced,52:34.9,36,6,52:34.9,Mood Swings
+69,31,21.93,1,Low,8.8,Balanced,52:34.9,39,6,52:34.9,Cramps
+69,31,21.93,1,Low,8.8,Balanced,52:34.9,47,5,52:34.9,Headache
+69,31,21.93,1,Low,8.8,Balanced,52:34.9,30,5,52:34.9,Fatigue
+69,31,21.93,1,Low,8.8,Balanced,52:34.9,37,3,52:34.9,Headache
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,49,6,52:34.9,Headache
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,35,5,52:34.9,Headache
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,41,5,52:34.9,Mood Swings
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,39,5,52:34.9,Fatigue
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,25,3,52:34.9,Mood Swings
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,45,3,52:34.9,Headache
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,29,5,52:34.9,Bloating
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,28,4,52:34.9,Fatigue
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,39,6,52:34.9,Fatigue
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,40,6,52:34.9,Headache
+70,34,28.77,4,Moderate,8.2,Vegetarian,52:34.9,40,6,52:34.9,Bloating
+71,34,23.23,5,High,6.2,Vegetarian,52:34.9,48,5,52:34.9,Fatigue
+71,34,23.23,5,High,6.2,Vegetarian,52:34.9,35,3,52:34.9,Mood Swings
+71,34,23.23,5,High,6.2,Vegetarian,52:34.9,27,7,52:34.9,Cramps
+71,34,23.23,5,High,6.2,Vegetarian,52:34.9,42,5,52:34.9,Mood Swings
+71,34,23.23,5,High,6.2,Vegetarian,52:34.9,50,5,52:34.9,Fatigue
+71,34,23.23,5,High,6.2,Vegetarian,52:34.9,45,4,52:34.9,Bloating
+71,34,23.23,5,High,6.2,Vegetarian,52:34.9,47,3,52:34.9,Headache
+72,38,23.97,3,High,5.4,Balanced,52:34.9,34,5,52:34.9,Mood Swings
+72,38,23.97,3,High,5.4,Balanced,52:34.9,37,3,52:34.9,Mood Swings
+72,38,23.97,3,High,5.4,Balanced,52:34.9,40,4,52:34.9,Bloating
+72,38,23.97,3,High,5.4,Balanced,52:34.9,35,6,52:34.9,Cramps
+72,38,23.97,3,High,5.4,Balanced,52:34.9,50,6,52:34.9,Mood Swings
+72,38,23.97,3,High,5.4,Balanced,52:34.9,26,7,52:34.9,Cramps
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,27,4,52:34.9,Headache
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,35,5,52:34.9,Cramps
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,40,5,52:34.9,Mood Swings
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,32,5,52:34.9,Mood Swings
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,42,3,52:34.9,Headache
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,27,6,52:34.9,Cramps
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,31,5,52:34.9,Headache
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,31,6,52:34.9,Cramps
+73,45,27.1,1,Moderate,8.7,Vegetarian,52:34.9,34,6,52:34.9,Cramps
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,50,6,52:34.9,Bloating
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,45,6,52:34.9,Headache
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,27,3,52:34.9,Fatigue
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,32,4,52:34.9,Mood Swings
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,26,7,52:34.9,Mood Swings
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,50,5,52:34.9,Headache
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,34,4,52:34.9,Fatigue
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,42,7,52:34.9,Fatigue
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,50,4,52:34.9,Mood Swings
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,43,7,52:34.9,Headache
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,48,7,52:34.9,Mood Swings
+74,34,25.42,4,High,8.8,Vegetarian,52:34.9,34,5,52:34.9,Bloating
+75,27,21.79,4,High,5.6,Balanced,52:34.9,45,7,52:34.9,Cramps
+75,27,21.79,4,High,5.6,Balanced,52:34.9,45,7,52:34.9,Cramps
+75,27,21.79,4,High,5.6,Balanced,52:34.9,38,7,52:34.9,Headache
+75,27,21.79,4,High,5.6,Balanced,52:34.9,39,3,52:34.9,Mood Swings
+75,27,21.79,4,High,5.6,Balanced,52:34.9,47,5,52:34.9,Cramps
+75,27,21.79,4,High,5.6,Balanced,52:34.9,47,7,52:34.9,Fatigue
+75,27,21.79,4,High,5.6,Balanced,52:34.9,38,5,52:34.9,Bloating
+75,27,21.79,4,High,5.6,Balanced,52:34.9,32,7,52:34.9,Mood Swings
+75,27,21.79,4,High,5.6,Balanced,52:34.9,43,4,52:34.9,Cramps
+75,27,21.79,4,High,5.6,Balanced,52:34.9,44,6,52:34.9,Headache
+75,27,21.79,4,High,5.6,Balanced,52:34.9,44,7,52:34.9,Bloating
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,49,6,52:34.9,Headache
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,48,6,52:34.9,Cramps
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,28,4,52:34.9,Cramps
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,43,7,52:34.9,Mood Swings
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,34,6,52:34.9,Cramps
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,48,5,52:34.9,Bloating
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,47,6,52:34.9,Cramps
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,47,6,52:34.9,Bloating
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,41,7,52:34.9,Bloating
+76,40,27.42,1,Moderate,7.8,Balanced,52:34.9,32,7,52:34.9,Mood Swings
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,40,3,52:34.9,Mood Swings
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,50,6,52:34.9,Headache
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,26,3,52:34.9,Fatigue
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,31,6,52:34.9,Headache
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,44,7,52:34.9,Bloating
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,39,3,52:34.9,Headache
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,32,3,52:34.9,Fatigue
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,39,5,52:34.9,Cramps
+77,28,22.67,4,Low,8.8,Balanced,52:34.9,43,7,52:34.9,Bloating
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,48,3,52:34.9,Fatigue
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,44,7,52:34.9,Bloating
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,35,5,52:34.9,Fatigue
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,26,4,52:34.9,Mood Swings
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,48,4,52:34.9,Fatigue
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,31,5,52:34.9,Fatigue
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,34,4,52:34.9,Cramps
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,26,6,52:34.9,Headache
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,40,5,52:34.9,Mood Swings
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,46,5,52:34.9,Cramps
+78,37,29.26,3,Low,7.5,Balanced,52:34.9,50,3,52:34.9,Bloating
+79,22,20.27,1,High,9,High Sugar,52:34.9,40,3,52:34.9,Headache
+79,22,20.27,1,High,9,High Sugar,52:34.9,34,5,52:34.9,Cramps
+79,22,20.27,1,High,9,High Sugar,52:34.9,38,7,52:34.9,Cramps
+79,22,20.27,1,High,9,High Sugar,52:34.9,32,5,52:34.9,Headache
+79,22,20.27,1,High,9,High Sugar,52:34.9,50,4,52:34.9,Cramps
+79,22,20.27,1,High,9,High Sugar,52:34.9,32,6,52:34.9,Mood Swings
+79,22,20.27,1,High,9,High Sugar,52:34.9,30,6,52:34.9,Headache
+79,22,20.27,1,High,9,High Sugar,52:34.9,47,3,52:34.9,Mood Swings
+79,22,20.27,1,High,9,High Sugar,52:34.9,36,7,52:34.9,Mood Swings
+79,22,20.27,1,High,9,High Sugar,52:34.9,27,6,52:34.9,Bloating
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,37,7,52:34.9,Fatigue
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,48,6,52:34.9,Fatigue
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,44,3,52:34.9,Cramps
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,50,7,52:34.9,Mood Swings
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,44,6,52:34.9,Bloating
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,28,4,52:34.9,Headache
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,50,4,52:34.9,Bloating
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,25,3,52:34.9,Bloating
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,39,3,52:34.9,Cramps
+80,35,26.52,3,High,8.4,Vegetarian,52:34.9,29,3,52:34.9,Cramps
+81,36,26.25,5,Moderate,6.5,Low Carb,52:34.9,45,6,52:34.9,Mood Swings
+81,36,26.25,5,Moderate,6.5,Low Carb,52:34.9,48,5,52:34.9,Fatigue
+81,36,26.25,5,Moderate,6.5,Low Carb,52:34.9,27,3,52:34.9,Mood Swings
+81,36,26.25,5,Moderate,6.5,Low Carb,52:34.9,42,6,52:34.9,Bloating
+81,36,26.25,5,Moderate,6.5,Low Carb,52:34.9,29,5,52:34.9,Cramps
+81,36,26.25,5,Moderate,6.5,Low Carb,52:34.9,45,4,52:34.9,Cramps
+81,36,26.25,5,Moderate,6.5,Low Carb,52:34.9,47,7,52:34.9,Cramps
+82,42,23.81,2,High,7.3,Low Carb,52:34.9,28,7,52:34.9,Headache
+82,42,23.81,2,High,7.3,Low Carb,52:34.9,31,7,52:34.9,Bloating
+82,42,23.81,2,High,7.3,Low Carb,52:34.9,50,7,52:34.9,Headache
+82,42,23.81,2,High,7.3,Low Carb,52:34.9,43,4,52:34.9,Mood Swings
+82,42,23.81,2,High,7.3,Low Carb,52:34.9,32,3,52:34.9,Cramps
+82,42,23.81,2,High,7.3,Low Carb,52:34.9,43,3,52:34.9,Fatigue
+82,42,23.81,2,High,7.3,Low Carb,52:34.9,42,4,52:34.9,Mood Swings
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,38,6,52:34.9,Fatigue
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,30,5,52:34.9,Bloating
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,33,5,52:34.9,Bloating
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,31,3,52:34.9,Cramps
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,31,5,52:34.9,Bloating
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,42,6,52:34.9,Mood Swings
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,36,3,52:34.9,Bloating
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,36,3,52:34.9,Fatigue
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,30,7,52:34.9,Mood Swings
+83,25,24.51,1,Low,8,Vegetarian,52:34.9,29,6,52:34.9,Mood Swings
+84,40,20.99,2,Low,8.2,Vegetarian,52:34.9,47,3,52:34.9,Cramps
+84,40,20.99,2,Low,8.2,Vegetarian,52:34.9,28,5,52:34.9,Bloating
+84,40,20.99,2,Low,8.2,Vegetarian,52:34.9,44,6,52:34.9,Cramps
+84,40,20.99,2,Low,8.2,Vegetarian,52:34.9,43,3,52:34.9,Fatigue
+84,40,20.99,2,Low,8.2,Vegetarian,52:34.9,42,6,52:34.9,Headache
+84,40,20.99,2,Low,8.2,Vegetarian,52:34.9,39,4,52:34.9,Bloating
+85,45,24.23,3,Low,8.3,High Sugar,52:34.9,33,7,52:34.9,Bloating
+85,45,24.23,3,Low,8.3,High Sugar,52:34.9,33,5,52:34.9,Headache
+85,45,24.23,3,Low,8.3,High Sugar,52:34.9,29,6,52:34.9,Fatigue
+85,45,24.23,3,Low,8.3,High Sugar,52:34.9,50,6,52:34.9,Fatigue
+85,45,24.23,3,Low,8.3,High Sugar,52:34.9,32,3,52:34.9,Bloating
+85,45,24.23,3,Low,8.3,High Sugar,52:34.9,35,7,52:34.9,Mood Swings
+85,45,24.23,3,Low,8.3,High Sugar,52:34.9,37,4,52:34.9,Bloating
+86,36,19.97,2,High,8,Balanced,52:34.9,28,3,52:34.9,Headache
+86,36,19.97,2,High,8,Balanced,52:34.9,45,6,52:34.9,Bloating
+86,36,19.97,2,High,8,Balanced,52:34.9,38,6,52:34.9,Cramps
+86,36,19.97,2,High,8,Balanced,52:34.9,43,6,52:34.9,Cramps
+86,36,19.97,2,High,8,Balanced,52:34.9,45,6,52:34.9,Headache
+86,36,19.97,2,High,8,Balanced,52:34.9,31,5,52:34.9,Bloating
+86,36,19.97,2,High,8,Balanced,52:34.9,49,5,52:34.9,Headache
+86,36,19.97,2,High,8,Balanced,52:34.9,42,6,52:34.9,Cramps
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,50,7,52:34.9,Headache
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,27,5,52:34.9,Cramps
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,33,3,52:34.9,Cramps
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,40,7,52:34.9,Bloating
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,36,7,52:34.9,Cramps
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,31,5,52:34.9,Fatigue
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,36,6,52:34.9,Fatigue
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,25,7,52:34.9,Cramps
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,33,5,52:34.9,Headache
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,42,6,52:34.9,Bloating
+87,44,22.52,5,High,8.5,Vegetarian,52:34.9,32,5,52:34.9,Cramps
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,34,7,52:34.9,Bloating
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,46,3,52:34.9,Fatigue
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,26,7,52:34.9,Cramps
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,48,5,52:34.9,Fatigue
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,35,6,52:34.9,Cramps
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,36,6,52:34.9,Fatigue
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,47,7,52:34.9,Mood Swings
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,26,5,52:34.9,Headache
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,29,6,52:34.9,Bloating
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,41,6,52:34.9,Headache
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,25,7,52:34.9,Fatigue
+88,18,18.97,5,High,5.3,Vegetarian,52:34.9,34,7,52:34.9,Bloating
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,34,7,52:34.9,Headache
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,27,5,52:34.9,Cramps
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,36,7,52:34.9,Cramps
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,45,6,52:34.9,Cramps
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,38,5,52:34.9,Headache
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,31,5,52:34.9,Mood Swings
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,36,5,52:34.9,Mood Swings
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,46,4,52:34.9,Headache
+89,20,28.86,5,Moderate,5.1,Vegetarian,52:34.9,32,3,52:34.9,Bloating
+90,30,26.66,1,High,6.9,High Sugar,52:34.9,38,6,52:34.9,Headache
+90,30,26.66,1,High,6.9,High Sugar,52:34.9,42,6,52:34.9,Bloating
+90,30,26.66,1,High,6.9,High Sugar,52:34.9,28,3,52:34.9,Headache
+90,30,26.66,1,High,6.9,High Sugar,52:34.9,28,7,52:34.9,Fatigue
+90,30,26.66,1,High,6.9,High Sugar,52:34.9,25,6,52:34.9,Fatigue
+90,30,26.66,1,High,6.9,High Sugar,52:34.9,33,5,52:34.9,Headache
+90,30,26.66,1,High,6.9,High Sugar,52:34.9,43,5,52:34.9,Bloating
+90,30,26.66,1,High,6.9,High Sugar,52:34.9,34,4,52:34.9,Mood Swings
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,46,7,52:34.9,Bloating
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,30,3,52:34.9,Bloating
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,34,6,52:34.9,Headache
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,48,6,52:34.9,Headache
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,34,3,52:34.9,Bloating
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,31,6,52:34.9,Fatigue
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,48,5,52:34.9,Mood Swings
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,26,6,52:34.9,Cramps
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,30,5,52:34.9,Fatigue
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,29,6,52:34.9,Bloating
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,25,5,52:34.9,Bloating
+91,32,25.45,3,Low,6.5,High Sugar,52:34.9,32,4,52:34.9,Mood Swings
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,48,5,52:34.9,Mood Swings
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,29,5,52:34.9,Mood Swings
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,39,6,52:34.9,Headache
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,31,3,52:34.9,Bloating
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,27,4,52:34.9,Headache
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,33,4,52:34.9,Bloating
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,29,3,52:34.9,Cramps
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,45,6,52:34.9,Headache
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,43,6,52:34.9,Fatigue
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,50,3,52:34.9,Cramps
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,38,4,52:34.9,Mood Swings
+92,29,24.11,2,Moderate,8.4,Vegetarian,52:34.9,40,4,52:34.9,Bloating
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,33,4,52:34.9,Headache
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,29,5,52:34.9,Mood Swings
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,33,6,52:34.9,Cramps
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,35,4,52:34.9,Fatigue
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,36,4,52:34.9,Cramps
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,27,3,52:34.9,Fatigue
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,35,3,52:34.9,Bloating
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,49,5,52:34.9,Mood Swings
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,35,3,52:34.9,Mood Swings
+93,21,24.1,5,Low,8.6,Low Carb,52:34.9,46,5,52:34.9,Bloating
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,37,4,52:34.9,Headache
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,40,6,52:34.9,Cramps
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,38,7,52:34.9,Cramps
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,37,4,52:34.9,Cramps
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,35,7,52:34.9,Headache
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,38,4,52:34.9,Cramps
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,28,4,52:34.9,Headache
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,31,5,52:34.9,Fatigue
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,43,4,52:34.9,Fatigue
+94,20,21.13,4,Moderate,6.9,Low Carb,52:34.9,38,4,52:34.9,Cramps
+95,27,28.29,5,Low,5.6,Balanced,52:34.9,48,5,52:34.9,Headache
+95,27,28.29,5,Low,5.6,Balanced,52:34.9,26,3,52:34.9,Fatigue
+95,27,28.29,5,Low,5.6,Balanced,52:34.9,32,5,52:34.9,Fatigue
+95,27,28.29,5,Low,5.6,Balanced,52:34.9,46,6,52:34.9,Cramps
+95,27,28.29,5,Low,5.6,Balanced,52:34.9,33,4,52:34.9,Fatigue
+95,27,28.29,5,Low,5.6,Balanced,52:34.9,42,7,52:34.9,Fatigue
+95,27,28.29,5,Low,5.6,Balanced,52:34.9,44,5,52:34.9,Bloating
+96,44,19.78,3,Low,6.3,Balanced,52:34.9,39,7,52:34.9,Fatigue
+96,44,19.78,3,Low,6.3,Balanced,52:34.9,41,3,52:34.9,Mood Swings
+96,44,19.78,3,Low,6.3,Balanced,52:34.9,38,6,52:34.9,Mood Swings
+96,44,19.78,3,Low,6.3,Balanced,52:34.9,50,5,52:34.9,Fatigue
+96,44,19.78,3,Low,6.3,Balanced,52:34.9,29,3,52:34.9,Fatigue
+96,44,19.78,3,Low,6.3,Balanced,52:34.9,27,3,52:34.9,Fatigue
+96,44,19.78,3,Low,6.3,Balanced,52:34.9,32,7,52:34.9,Headache
+96,44,19.78,3,Low,6.3,Balanced,52:34.9,47,3,52:34.9,Bloating
+97,37,18.55,5,High,7.6,Vegetarian,52:34.9,26,7,52:34.9,Fatigue
+97,37,18.55,5,High,7.6,Vegetarian,52:34.9,28,6,52:34.9,Headache
+97,37,18.55,5,High,7.6,Vegetarian,52:34.9,32,6,52:34.9,Fatigue
+97,37,18.55,5,High,7.6,Vegetarian,52:34.9,34,4,52:34.9,Bloating
+97,37,18.55,5,High,7.6,Vegetarian,52:34.9,49,4,52:34.9,Cramps
+97,37,18.55,5,High,7.6,Vegetarian,52:34.9,32,6,52:34.9,Bloating
+97,37,18.55,5,High,7.6,Vegetarian,52:34.9,44,4,52:34.9,Mood Swings
+98,19,21.71,4,Moderate,5.7,Low Carb,52:34.9,47,7,52:34.9,Fatigue
+98,19,21.71,4,Moderate,5.7,Low Carb,52:34.9,26,5,52:34.9,Bloating
+98,19,21.71,4,Moderate,5.7,Low Carb,52:34.9,48,5,52:34.9,Bloating
+98,19,21.71,4,Moderate,5.7,Low Carb,52:34.9,31,3,52:34.9,Fatigue
+98,19,21.71,4,Moderate,5.7,Low Carb,52:34.9,34,5,52:34.9,Headache
+98,19,21.71,4,Moderate,5.7,Low Carb,52:34.9,29,7,52:34.9,Headache
+98,19,21.71,4,Moderate,5.7,Low Carb,52:34.9,50,3,52:34.9,Fatigue
+98,19,21.71,4,Moderate,5.7,Low Carb,52:34.9,49,7,52:34.9,Headache
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,40,6,52:34.9,Headache
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,45,7,52:34.9,Cramps
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,31,4,52:34.9,Mood Swings
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,28,4,52:34.9,Fatigue
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,43,4,52:34.9,Bloating
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,25,5,52:34.9,Fatigue
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,41,4,52:34.9,Cramps
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,45,4,52:34.9,Mood Swings
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,43,4,52:34.9,Bloating
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,26,5,52:34.9,Fatigue
+99,39,28.82,4,Moderate,6.4,Low Carb,52:34.9,50,7,52:34.9,Mood Swings
+100,22,21.41,5,Moderate,8.1,Low Carb,52:34.9,29,3,52:34.9,Mood Swings
+100,22,21.41,5,Moderate,8.1,Low Carb,52:34.9,35,4,52:34.9,Headache
+100,22,21.41,5,Moderate,8.1,Low Carb,52:34.9,35,5,52:34.9,Mood Swings
+100,22,21.41,5,Moderate,8.1,Low Carb,52:34.9,46,3,52:34.9,Bloating
+100,22,21.41,5,Moderate,8.1,Low Carb,52:34.9,49,5,52:34.9,Fatigue
+100,22,21.41,5,Moderate,8.1,Low Carb,52:34.9,42,4,52:34.9,Headache
+100,22,21.41,5,Moderate,8.1,Low Carb,52:34.9,40,6,52:34.9,Cramps
